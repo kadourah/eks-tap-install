@@ -15,3 +15,6 @@ https://aws.amazon.com/quickstart/architecture/vmware-tanzu-application-platform
  9.  Add repo as mentioned above to EKS:
     * <cloudformation id>/tap-supply-chain/<appname>-tap-workload
     * <cloudformation id>/tap-supply-chain/<appname>-tap-workload-bundle 
+
+### Cleaning an AWS 
+* Leveraging [AWS Nuke](https://github.com/rebuy-de/aws-nuke)
